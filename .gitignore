@@ -1,0 +1,35 @@
+# Node.js dependencies
+/node_modules/
+
+# Next.js build output
+/.next/
+
+# TypeScript build output
+/dist/
+/out/
+
+# Prisma
+/.prisma/
+/prisma/migrations/
+/prisma/dev.db
+
+# TailwindCSS cache
+/.tailwind/
+
+# Environment variable files
+/.env
+/.env.local
+/.env.production
+/.env.development
+
+# Log files
+*.log
+
+# VS Code specific
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
